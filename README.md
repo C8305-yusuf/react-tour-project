@@ -419,3 +419,16 @@ const App = ()=>{
 
 export default App;
 
+-_-_-_-_-_-_-_-_-_DEPLOY-_-_-_-_-_-_-_-_-_
+
+https://surge.sh/ sitesine gidiyoruz.
+
+## npm install --global surge
+
+makinamıza bir kere kuruyoruz.
+burada email ve şifre tanımlanıyor.
+
+bundan sonra proje dizinimize geliyoruz.
+
+## cd build
+## surge
